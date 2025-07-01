@@ -44,6 +44,6 @@ Sono una Junior Frontend Developer con una forte passione per l'interfaccia uten
 ## 📞 Contatti
 
 📧 **Email**: [lucia.meneghin00@gmail.com](lucia.meneghin00@gmail.com)  
-🌍 **LinkedIn**: [[linkedin.com/in/luciameneghin](https://www.linkedin.com/in/lucia-meneghin-97b257365/)]
+🌍 **LinkedIn**: [[linkedin.com/in/luciameneghin](https://www.linkedin.com/in/lucia-meneghin-97b257365/)
 🔗 **GitHub**: [github.com/luciameneghin](https://github.com/luciameneghin)
 
