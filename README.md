@@ -1,16 +1,17 @@
 # 👩‍💻 Lucia Meneghin  
-Junior Frontend Web Developer
+Junior Full Stack Developer
 
 Benvenuta/o sul mio profilo GitHub!  
-Sono una Junior Frontend Developer con una forte passione per l'interfaccia utente, l'accessibilità e il design sostenibile. Dopo anni di esperienza nel settore alimentare, ho deciso di reinventarmi e seguire la mia passione per la tecnologia.
+Sono una Junior Full Stack Developer sempre alla ricerca di nuove sfide e nuovi linguaggi da imparare. Dopo anni di esperienza nel settore alimentare, ho deciso di reinventarmi e seguire la mia passione per la tecnologia.
 
 ---
 
 ## 📝 Profilo
 
-🎓 Ho completato una formazione intensiva come Full Stack Web Developer con specializzazione in **JavaScript**, **React**, **TypeScript**, **Symfony** e **Testing (Jest)**.
+🎓 Ho completato una formazione intensiva come Full Stack Web Developer con specializzazione in **JavaScript**, **React**, **TypeScript** e **Testing (Jest)**.
 
-🚀 Mi entusiasma progettare interfacce accessibili, funzionali e pulite.  
+🚀 La mia passione è cresciuta sempre di più durante il percorso di formazione attraverso progetti personali e di gruppo. Adesso invece continua a crescere grazie ai nuovi linguaggi di programmazione che sto imparando in autonomia per mettermi in linea con le esigenze del mercato.
+
 🌱 Lavoro attualmente su un progetto green-oriented per la configurazione di mobili eco-sostenibili.
 
 ---
@@ -33,17 +34,20 @@ Sono una Junior Frontend Developer con una forte passione per l'interfaccia uten
 
 ## 🌟 Progetti in evidenza
 
-- 🎨 **[Tape Recorder]([https://github.com/luciameneghin/ecodesign-frontend](https://github.com/luciameneghin/progetto-finale-spec-frontend-front))**  
+- 📼 **[Tape Recorder](https://github.com/luciameneghin/progetto-finale-spec-frontend-front)**  
   SPA in React, per la comparazione di album anni '70
 
 - 🏠 **[BoolBnB](https://github.com/luciameneghin/boolbnb)**  
   Clone di Airbnb con ricerche filtrate per l'affitto breve di immobili
 
+- 🛋️ **[Ecodesign](https://github.com/luciameneghin/ecodesign-frontend)**  
+  SPA in React collegata a un backend Symfony, per la visualizzazione di mobili sostenibili
+  
 ---
 
 ## 📞 Contatti
 
 📧 **Email**: [lucia.meneghin00@gmail.com](lucia.meneghin00@gmail.com)  
-🌍 **LinkedIn**: [https://linkedin.com/in/luciameneghin](https://www.linkedin.com/in/lucia-meneghin-97b257365/) 
+🌍 **LinkedIn**: [https://linkedin.com/in/luciameneghin](https://www.linkedin.com/in/lucia-meneghin-97b257365/)   
 🔗 **GitHub**: [github.com/luciameneghin](https://github.com/luciameneghin)
 
